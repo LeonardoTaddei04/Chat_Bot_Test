@@ -3,10 +3,10 @@ const msgerInput = get(".msger-input");
 const msgerChat = get(".msger-char");
 const BOT_NAME = "BOT";
 const PERSON_NAME = "YOUR NAME";
-const prompts=["ciao", "come stai"]
-const replies=[" ciaoo", "heheheh"]
-const alternative=["u", "si", "ok"]
-const robot=["sei un umano, puzzi"]
+const prompts=["1", "1"]
+const replies=[" 2", "2"]
+const alternative=["3", "3", "3"]
+const robot=[" 4 "]
 
 msgerForm.addEventListener("Submit", Event{
 	event.preventDefault();
